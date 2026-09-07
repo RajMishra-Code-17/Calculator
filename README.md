@@ -6,4 +6,4 @@ Features
 Simple and intuitive interface
 Performs basic arithmetic operations (+, -, *, /)
 Handles invalid input and edge cases gracefully
-Lightweight and easy to run — no external dependencies required.
+Lightweight and easy to run — no external dependencies required
